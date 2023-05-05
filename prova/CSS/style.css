@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    
+}
+header{
+    background-color: grey;
+    font-size: 20px;
+    
+}
+a{
+    color: white;
+    text-align: center;
+
+}
+h1{
+    color: greenyellow;
+    text-align: center;
+}
+h5,h2{
+    color: greenyellow;
+
+}
+p,h3{
+    color: white;    
+    
+}
+.foto{
+    margin-left: 650px;
+    width: 15%;
+    border-radius: 200%;
+    border: 10px;
+    border-style: double;
+    border-color: yellowgreen;
+    
+}
+footer{
+    text-align: center;
+    padding-top: 80px;
+}
+form{
+    text-align: center;
+    color: white;
+}
+a:hover {
+    color: greenyellow;
+}
+
